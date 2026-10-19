@@ -21,9 +21,10 @@ for a bank across France, Germany and Spain.
 - Power BI (DAX, data modelling, slicers, dashboard design)
 
 ## Screenshots
-![Executive Summary](images/executive-summary.png)
-![Churn Analysis](images/churn-analysis.png)
-![Retained Analysis](images/retained-analysis.png)
+<img width="1647" height="923" alt="Screenshot 2026-08-25 144310" src="https://github.com/user-attachments/assets/727731ec-482c-4c77-8ede-580415d083ae" />
+<img width="1375" height="791" alt="Screenshot 2026-08-25 151015" src="https://github.com/user-attachments/assets/c94b89be-4664-4552-8802-f52f0dec8c40" />
+<img width="1389" height="790" alt="Screenshot 2026-08-25 171537" src="https://github.com/user-attachments/assets/ce397b0a-91a1-48f9-9d88-771ce8e9fd55" />
+
 
 ## Author
 Anuradha Ghosh
